@@ -1,0 +1,14 @@
+../Core/Src/enc28j60.c:18:13:Error	1
+../Core/Src/enc28j60.c:23:16:SPIx_WriteRead	2
+../Core/Src/enc28j60.c:33:6:SPI_SendByte	1
+../Core/Src/enc28j60.c:38:9:SPI_ReceiveByte	1
+../Core/Src/enc28j60.c:44:6:enc28j60_writeop	1
+../Core/Src/enc28j60.c:52:16:enc28j60_readop	2
+../Core/Src/enc28j60.c:65:13:enc28j60_readbuf	2
+../Core/Src/enc28j60.c:75:6:enc28j60_SetBank	2
+../Core/Src/enc28j60.c:85:13:enc28j60_writeRegByte	1
+../Core/Src/enc28j60.c:91:16:enc28j60_readRegByte	1
+../Core/Src/enc28j60.c:97:13:enc28j60_writeReg	1
+../Core/Src/enc28j60.c:103:13:enc28j60_writePhy	2
+../Core/Src/enc28j60.c:111:6:enc28j60_init	2
+../Core/Src/enc28j60.c:149:10:enc28j60_packetReceive	5

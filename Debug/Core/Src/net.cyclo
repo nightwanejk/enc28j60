@@ -1,0 +1,10 @@
+../Core/Src/net.c:15:6:net_init	1
+../Core/Src/net.c:20:9:arp_read	6
+../Core/Src/net.c:66:6:eth_read	4
+../Core/Src/net.c:97:6:enc28j60_packetSend	3
+../Core/Src/net.c:127:6:eth_send	1
+../Core/Src/net.c:139:6:arp_send	1
+../Core/Src/net.c:153:6:enc28j60_writeBuf	2
+../Core/Src/net.c:162:9:ip_read	4
+../Core/Src/net.c:185:6:icmp_send	1
+../Core/Src/net.c:206:6:net_pool	2
